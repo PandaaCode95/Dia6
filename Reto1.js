@@ -1,6 +1,6 @@
 let res ;
-function suma (x,y){
-     res = x+ y;
+function suma (x,y,z){
+     res = x+ y+z;
     return res;
 }
 function rest (x,y){
