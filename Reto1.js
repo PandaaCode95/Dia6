@@ -1,8 +1,15 @@
 let res ;
+
+function suma2 (x,y,z){
+     res = x+ y+z;
+    return res;
+}
+
 // function suma (x,y){
 //      res = x+ y;
 //     return res;
 // }
+
 function rest (x,y){
      res = x- y;
     return res;
